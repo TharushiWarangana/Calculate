@@ -1,0 +1,15 @@
+
+.head{
+    margin-right: 70%;
+    padding: 30px;
+    background-color:black;
+    border-radius: 100px;
+    color: white;
+}
+.answer{
+    margin-right: 50%;
+   padding: 30px;
+    background-color:darkred;
+    border-radius: 100px;
+    color: white;
+}
